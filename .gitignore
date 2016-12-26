@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+log
+node_modules
+*.log
+*.orig
+.vscode
+public/upload
+logs/*
+movies
